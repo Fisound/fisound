@@ -1,0 +1,18 @@
+[
+  {
+    "id": "test",
+    "filename": "rain-loop.mp3",
+    "title": "Rain Loop",
+    "tags": ["ambient", "rain", "loop", "nature"],
+    "duration": 32,
+    "uploader": "fisound"
+  },
+  {
+    "id": "test",
+    "filename": "city-night.mp3",
+    "title": "City Night",
+    "tags": ["ambient", "city", "urban", "night"],
+    "duration": 60,
+    "uploader": "fisound"
+  }
+]
